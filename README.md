@@ -30,7 +30,7 @@ This repository contains a collection of open-source scripts for password manage
 ## Usage
 
 1. Clone the repository:
-    git clone <repository-url>
+    git clone https://github.com/adam00f/bcrypt-argon2-hasher.git
     cd password-management-scripts
 
 2. Make the scripts executable:
